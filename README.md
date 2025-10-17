@@ -1,9 +1,11 @@
 # Nikita Ravindra Albela - Data Analysis Portfolio
 
 # About
-Hi, I'm Nikita! I'm an Aspiring Data Analyst with a strong foundation in SQL, Python, Power BI, Tableau, and Excel, and a deep interest in transforming raw data into actionable business insights. With an MBA in Business Analytics, I combine analytical thinking with strategic business understanding. My projects span across ecommerce, Healthcare, and Insurance Analytics, focusing on growth optimization, customer segmentation, and performance improvement.
+Hi, I'm Nikita! I’m an Aspiring Data Analyst passionate about turning raw data into actionable insights that drive business decisions. I have a strong foundation in SQL, Python, Power BI, Tableau, and Excel, and I’m currently pursuing an MBA in Business Analytics, where I combine analytical thinking with strategic business understanding.
 
-This repository serves to showcase my skills and as a platform to share my projects, and a way to track my progress in Data Analytics and Data Science-related topics.
+My project experience spans across sales, resource allocation, Healthcare, and Insurance Analytics, focusing on growth optimization, customer segmentation, and performance improvement. I bring one year of hands-on experience through two internships a 6-month Data Analytics internship at Rubixe (AI Solutions Company) and a 3-month internship at Oasis Infobyte, where I received excellent client feedback for my analytical contributions.
+
+This repository showcases my projects, skills, and ongoing learning journey in data analytics. I’m driven by curiosity, enjoy uncovering meaningful patterns in data, and believe in continuous learning. Outside of analytics, I’m an avid reader and enjoy painting and sketching in my free time.
 
 # Study Projects
 In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing IABAC Exam, all that I have learnt during my interships and put it into practice or while just having fun with data and code.
@@ -43,11 +45,16 @@ In this section I will list data analytics projects briefly describing the techn
 
 
 
-Certificates
+# Certificates
 I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
 
+- Complete Guide to Generative AI for Data Analysis and Data Science” by Dan Sullivan.
+- Learning Data Analytics Part 2: Extending and Applying Core Knowledge by Linkedin
+- Practical A/B Testing by Linkedin
+- SQL for Data Analysis by Linkedin
+- Microsoft Excel - Advanced Formulas and Functions
+- Certificate course in Business Administration.
 
-Contacts
-LinkedIn: @nktnlx
-Telegram: @nktnlx
-E-mail: nktn.lx@gmail.com
+# Contacts
+LinkedIn: https://www.linkedin.com/in/nikita-albela-4194b1164/
+E-mail: nikitaalbela31@gmail.com
