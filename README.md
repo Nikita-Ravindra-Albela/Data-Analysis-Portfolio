@@ -40,7 +40,7 @@ Some key ideas include partnering with e-commerce platforms for local delivery, 
 Repository: 
 
 # Blinkit-Sales-Dashboard-Power-BI-Project
-Description: This project presents a dynamic retail analytics dashboard built in Power BI to analyze sales patterns, outlet performance, and consumer behavior across Blinkit’s wide network of stores. With operations spanning multiple store types, sizes, and locations, Blinkit offers a vast product range — making data-driven decision-making essential.
+Description: This project presents a dynamic retail analytics dashboard built in Power BI to analyze sales patterns, outlet performance, and consumer behavior across Blinkit’s wide network of stores. With operations spanning multiple store types, sizes, and locations, Blinkit offers a vast product range making data-driven decision-making essential.
 
 The dashboard identifies key performance drivers such as outlet profitability, product categories, and consumer trends, enabling smarter decisions on inventory management, marketing, and expansion strategies.
 
