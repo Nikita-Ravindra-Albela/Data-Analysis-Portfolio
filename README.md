@@ -3,12 +3,14 @@
 # About
 Hi, I'm Nikita! I’m an Aspiring Data Analyst passionate about turning raw data into actionable insights that drive business decisions. I have a strong foundation in SQL, Python, Power BI, Tableau, and Excel, and I’m currently pursuing an MBA in Business Analytics, where I combine analytical thinking with strategic business understanding.
 
-My project experience spans across sales, resource allocation, Healthcare, and Insurance Analytics, focusing on growth optimization, customer segmentation, and performance improvement. I bring one year of hands-on experience through two internships a 6-month Data Analytics internship at Rubixe (AI Solutions Company) and a 3-month internship at Oasis Infobyte, where I received excellent client feedback for my analytical contributions.
+My project experience spans across sales, resource allocation, Healthcare, and Growth Analytics, focusing on growth optimization, customer segmentation, and performance improvement. I bring one year of hands-on experience through two internships a 6-month Data Analytics internship at Rubixe (AI Solutions Company) and a 3-month internship at Oasis Infobyte, where I received excellent client feedback for my analytical contributions.
 
 This repository showcases my projects, skills, and ongoing learning journey in data analytics. I’m driven by curiosity, enjoy uncovering meaningful patterns in data, and believe in continuous learning. Outside of analytics, I’m an avid reader and enjoy painting and sketching in my free time.
 
 # Study Projects
 In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing IABAC Exam, all that I have learnt during my interships and put it into practice or while just having fun with data and code.
+
+
 
 IABAC -
 
