@@ -1,14 +1,23 @@
 # Nikita Ravindra Albela - Data Analysis Portfolio
 
 # About
-Hi, I'm Nikita! I’m an Aspiring Data Analyst passionate about turning raw data into actionable insights that drive business decisions. I have a strong foundation in SQL, Python, Power BI, Tableau, and Excel, and I’m currently pursuing an MBA in Business Analytics, where I combine analytical thinking with strategic business understanding.
+Hi, I'm Nikita! I’m an Aspiring Data Analyst passionate about turning raw data into actionable insights that drive business decisions.
+I have a strong foundation in SQL, Python, Power BI, Tableau, and Excel, and I’m currently pursuing an MBA in Business Analytics, where I combine analytical thinking with strategic business understanding.
 
-My project experience spans across sales, resource allocation, Healthcare, and Growth Analytics, focusing on growth optimization, customer segmentation, and performance improvement. I bring one year of hands-on experience through two internships a 6-month Data Analytics internship at Rubixe (AI Solutions Company) and a 2-month internship at Oasis Infobyte, where I received excellent client feedback for my analytical contributions.
+My project experience spans sales, resource allocation, healthcare, and growth analytics, focusing on growth optimization, customer segmentation, and performance improvement.
+I bring 1 year of hands-on experience through two internships:
 
-This repository showcases my projects, skills, and ongoing learning journey in data analytics. I’m driven by curiosity, enjoy uncovering meaningful patterns in data, and believe in continuous learning. Outside of analytics, I’m an avid reader and enjoy painting and sketching in my free time.
+🧠 6-month Data Analytics Internship at Rubixe (AI Solutions Company)
 
-# Study Projects
-In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing IABAC Exam, all that I have learnt during my interships and put it into practice or while just having fun with data and code.
+📊 2-month Data Analytics Internship at Oasis Infobyte
+
+Both experiences allowed me to apply real-world analytical skills, and I received excellent client feedback for my insights and dashboard designs.
+
+This repository showcases my projects, skills, and ongoing learning journey in data analytics. I’m driven by curiosity, love uncovering patterns in data, and believe in continuous learning.
+Outside of analytics, I enjoy reading, painting, and sketching in my free time.
+
+# Featured Projects
+These repositories include code, Power BI dashboards, and Jupyter notebooks I developed during my IABAC certification, internships, and self-learning journey.
 
 - [Customer Churn Analysis](https://github.com/Nikita-Ravindra-Albela/Churn-Analysis)
 - [SkillMinds-AI](https://example.com](https://github.com/Nikita-Ravindra-Albela/SkillMinds-AI)
@@ -90,21 +99,7 @@ Description: A Power BI dashboard that visualizes Blinkit’s sales, revenue, an
 
 Description: A Power BI dashboard analyzing accident data across UK regions. It visualizes accident severity, location, vehicle type, and weather conditions to identify risk hotspots and support road safety policy decisions.
 
-# Vrinda Store Sales Analysis
-
-Description: An Excel and Power BI-based sales analysis project evaluating sales trends, product performance, and customer demographics. It helps retail stakeholders understand seasonal demand and optimize promotional strategies.
-
-# Automobile Insurance Industry Complaints Ranking
-
-Description: A Power BI analytics report ranking insurance companies based on customer complaints and resolution efficiency. It enables competitive benchmarking and highlights areas for service improvement.
-
-# Airbnb Analysis
-
-Description: A Python and Power BI project examining Airbnb listings, pricing, and location-based demand patterns. It identifies profitable property types and cities, offering actionable insights for hosts and investors.
-
-# Uber Analysis
-
-Description: A Python data analysis project examining Uber trip data to explore demand, ride frequency, and peak times. It provides insights into user behavior and operational optimization opportunities.
+# …and more projects in the repository!
 
 
 # Certificates
@@ -121,3 +116,4 @@ I believe that the best way to showcase skills is by doing and sharing your job 
 # Contacts
 LinkedIn: https://www.linkedin.com/in/nikita-albela-4194b1164/
 E-mail: nikitaalbela31@gmail.com
+Github: https://github.com/Nikita-Ravindra-Albela
