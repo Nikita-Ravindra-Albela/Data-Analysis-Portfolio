@@ -1,6 +1,6 @@
 # Nikita Ravindra Albela - Data Analysis Portfolio
 
-# About
+# About 
 Hi, I'm Nikita! I’m an Aspiring Data Analyst passionate about turning raw data into actionable insights that drive business decisions.
 I have a strong foundation in SQL, Python, Power BI, Tableau, and Excel, and I’m currently pursuing an MBA in Business Analytics, where I combine analytical thinking with strategic business understanding.
 
