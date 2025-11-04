@@ -10,23 +10,31 @@ This repository showcases my projects, skills, and ongoing learning journey in d
 # Study Projects
 In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing IABAC Exam, all that I have learnt during my interships and put it into practice or while just having fun with data and code.
 
-
-
-IABAC -
-
-Generative AI
-.
-
-
-
-ab testing course by Linkedin
-Description: A/B Testing Course by Google. The course official page.
-This course covers how to choose and characterize metrics to evaluate your experiments, how to design an experiment with enough statistical power, how to analyze the results and draw valid conclusions.
-
-
-
-
-
+[Customer Churn Analysis](https://github.com/Nikita-Ravindra-Albela/Churn-Analysis)
+[SkillMinds-AI](https://example.com](https://github.com/Nikita-Ravindra-Albela/SkillMinds-AI)
+[Twitter Sentiment](https://example.com](https://github.com/Nikita-Ravindra-Albela/Twitter-Sentiment-Analysis)
+[Market Segmentation Analysis](https://example.co](https://github.com/Nikita-Ravindra-Albela/Study-of-U.S-Retail-Market)
+[Coffee Sales](https://example.com](https://github.com/Nikita-Ravindra-Albela/Coffee-Sales-Dashboard)
+[Amazon-Prime-Video-Data-Analysis] (https://github.com/Nikita-Ravindra-Albela/-Amazon-Prime-Video-Data-Analysis)
+[Pareto Analysis] (https://github.com/Nikita-Ravindra-Albela/Pareto-Analysis---Apparel-Company)
+[Google Playstore] (https://github.com/Nikita-Ravindra-Albela/OIBSIP-Internship-Projects/blob/main/Google%20Playstore.pbix)
+[Predicting House Price] (https://github.com/Nikita-Ravindra-Albela/OIBSIP-Internship-Projects/blob/main/Predicting%20House%20Prices%20with%20Linear%20Regression.ipynb)
+[Freemium to Premium] (https://github.com/Nikita-Ravindra-Albela/SkillMinds-AI/blob/main/Freemium_to_Paid_Conversion_Analysis.ipynb)
+[Blinkit Sales] (https://github.com/Nikita-Ravindra-Albela/Blinkit-Sales-Dashboard-Power-BI-Project)
+[UK Road Accident Analysis] (https://github.com/Nikita-Ravindra-Albela/UK-Road-Accident-Analysis-Dashboard)
+[Healthcare financial and Resource Allocation Analysis] (https://github.com/Nikita-Ravindra-Albela/Healthcare-Provider-financial-and-resource-allocation)
+[Vrinda Sales] (https://github.com/Nikita-Ravindra-Albela/Vrinda-Store-Sales-Analysis)
+[Automobile Insurance Industry compliants Ranking] (https://github.com/Nikita-Ravindra-Albela/Automobile-Insurance-Industry-Complaints-Ranking)
+[Financial Performance] (https://github.com/Nikita-Ravindra-Albela/Power-BI-Financial-Performance-Dashboard)
+[airbnb Analysis] (https://github.com/Nikita-Ravindra-Albela/airbnb-analysis)
+[Customer Segmentation using K-Means] (https://github.com/Nikita-Ravindra-Albela/Customer-Segmentation-using-K-Means-Clustering)
+[K-Means for student CGPA & IQ] (https://github.com/Nikita-Ravindra-Albela/-K-Means-Clustering-on-Student-CGPA-and-IQ)
+[Diwali Sales] (https://github.com/Nikita-Ravindra-Albela/Diwali-Sales-Analysis)
+[Telco Churn Analysis] (https://github.com/Nikita-Ravindra-Albela/Telco-Customer-Churn-Analysis)
+[Uber Analysis] (https://github.com/Nikita-Ravindra-Albela/Uber-Analysis)
+[Customer Segmentation - Adventure Works] (https://github.com/Nikita-Ravindra-Albela/Customer-Segmentation-Analysis---Adventure-Works)
+[Chocolate Sales - 10 Minute Report] (https://github.com/Nikita-Ravindra-Albela/Chocolate-Sales---10-Minute-Report)
+[Regression Analysis - Umbrella Company] (https://github.com/Nikita-Ravindra-Albela/Regression-Analysis---The-Umbrella-Company) 
 
 
 # Side Projects
@@ -39,7 +47,6 @@ This project allowed me to apply my MBA knowledge of market analysis and consume
 
 Some key ideas include partnering with e-commerce platforms for local delivery, cross-promotions with food courts and theaters, and multi-layout malls offering shared warehouse spaces to reduce costs for both parties.
 
-Repository: 
 
 # Blinkit-Sales-Dashboard-Power-BI-Project
 Description: This project presents a dynamic retail analytics dashboard built in Power BI to analyze sales patterns, outlet performance, and consumer behavior across Blinkit’s wide network of stores. With operations spanning multiple store types, sizes, and locations, Blinkit offers a vast product range making data-driven decision-making essential.
@@ -48,17 +55,62 @@ The dashboard identifies key performance drivers such as outlet profitability, p
 
 Additionally, a Product Relationship Predictive Analysis was conducted to evaluate the impact of Item Weight, Item Visibility, and Customer Rating on sales. The findings suggest that these variables do not strongly predict sales, indicating that Blinkit could focus on visibility optimization and consumer preference analysis to improve revenue and strengthen its market positioning.
 
-# Healthcare Provider financial and resource allocation
+# Healthcare Provider Financial and Resource Allocation
+
 Description: The Healthcare Provider Dashboard is a multidimensional Power BI analytics project designed to evaluate financial performance, insurance dependency, departmental efficiency, and patient care trends. It integrates multiple datasets to provide a holistic view of healthcare operations, enabling administrators to identify cost-saving opportunities, optimize resource utilization, and enhance service delivery.
 
 Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
+# Customer Churn Analysis Dashboard
+
+Description: The Customer Churn Dashboard is an interactive Power BI project designed to identify churn patterns, revenue impact, and customer retention drivers. Using SQL Server for data preprocessing and DAX for KPIs, it visualizes churn trends across regions and highlights actionable insights to improve customer loyalty and reduce attrition.
+
+# Google Playstore App Analysis Dashboard
+
+Description: The Google Playstore Dashboard analyzes app market performance across categories, price types, ratings, and user reviews. Built using Excel and Power BI with DAX-driven KPIs, it highlights patterns in user engagement, free vs. paid app distribution, and top-performing genres—providing developers and marketers actionable insights to optimize app strategy.
+
+# SkillMinds AI Classes Analysis
+
+Description: The SkillMinds AI Dashboard visualizes synthetic student data to assess enrollment trends, performance outcomes, and course completion rates. Combining Python preprocessing with Power BI dashboards, it identifies learning patterns, engagement gaps, and student success metrics—helping EdTech platforms enhance personalized learning experiences.
+
+# Freemium to Paid Conversion Analysis
+
+Description: This machine learning project analyzes customer behavior and identifies factors influencing conversion from free to paid subscriptions. Using Python (Pandas, Scikit-learn, Matplotlib) for feature engineering and model evaluation, it applies logistic regression and random forest models to predict user upgrade likelihood—supporting targeted marketing and pricing strategies.
+
+# Twitter Sentiment Analysis
+
+Description: A natural language processing (NLP) project that analyzes public sentiment on Twitter using Python, NLTK, and Scikit-learn. It classifies tweets into positive, negative, or neutral sentiments, offering insights for brand reputation and campaign impact analysis.
+
+# Blinkit Sales Dashboard (Power BI Project)
+
+Description: A Power BI dashboard that visualizes Blinkit’s sales, revenue, and delivery performance. It uses KPIs to track top-selling categories, profitability, and store efficiency, supporting decision-making for inventory and marketing optimization.
+
+# UK Road Accident Analysis Dashboard
+
+Description: A Power BI dashboard analyzing accident data across UK regions. It visualizes accident severity, location, vehicle type, and weather conditions to identify risk hotspots and support road safety policy decisions.
+
+# Vrinda Store Sales Analysis
+
+Description: An Excel and Power BI-based sales analysis project evaluating sales trends, product performance, and customer demographics. It helps retail stakeholders understand seasonal demand and optimize promotional strategies.
+
+# Automobile Insurance Industry Complaints Ranking
+
+Description: A Power BI analytics report ranking insurance companies based on customer complaints and resolution efficiency. It enables competitive benchmarking and highlights areas for service improvement.
+
+# Airbnb Analysis
+
+Description: A Python and Power BI project examining Airbnb listings, pricing, and location-based demand patterns. It identifies profitable property types and cities, offering actionable insights for hosts and investors.
+
+# Uber Analysis
+
+Description: A Python data analysis project examining Uber trip data to explore demand, ride frequency, and peak times. It provides insights into user behavior and operational optimization opportunities.
 
 
 # Certificates
 I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
 
+- Certified Data Analyst - IABAC
 - Complete Guide to Generative AI for Data Analysis and Data Science” by Dan Sullivan.
 - Learning Data Analytics Part 2: Extending and Applying Core Knowledge by Linkedin
 - Practical A/B Testing by Linkedin
