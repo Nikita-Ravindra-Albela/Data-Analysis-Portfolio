@@ -7,9 +7,9 @@ I have a strong foundation in SQL, Python, Power BI, Tableau, and Excel, and I�
 My project experience spans sales, resource allocation, healthcare, and growth analytics, focusing on growth optimization, customer segmentation, and performance improvement.
 I bring 0.8 year of hands-on experience through two internships:
 
-🧠 6-month Data Analytics Internship at Rubixe (AI Solutions Company)
+🧠 7-month Data Analytics Internship at Rubixe (AI Solutions Company)
 
-📊 2-month Data Analytics Internship at Oasis Infobyte
+📊 1-month Data Analytics Internship at Oasis Infobyte
 
 Both experiences allowed me to apply real-world analytical skills, and I received excellent client feedback for my insights and dashboard designs.
 
