@@ -14,7 +14,7 @@ I bring 0.8 year of hands-on experience through two internships:
 Both experiences allowed me to apply real-world analytical skills, and I received excellent client feedback for my insights and dashboard designs.
 
 This repository showcases my projects, skills, and ongoing learning journey in data analytics. I’m driven by curiosity, love uncovering patterns in data, and believe in continuous learning.
-Outside of analytics, I enjoy reading, painting, and sketching in my free time.
+
 
 # Featured Projects
 These repositories include code, Power BI dashboards, and Jupyter notebooks I developed during my IABAC certification, internships, and self-learning journey.
