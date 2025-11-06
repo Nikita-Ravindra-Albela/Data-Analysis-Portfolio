@@ -103,7 +103,7 @@ Description: A Power BI dashboard analyzing accident data across UK regions. It 
 
 
 # Certificates
-I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
+I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result :) So here is a list of the ones I have (in reverse-chronological order):
 
 - Certified Data Analyst - IABAC
 - Complete Guide to Generative AI for Data Analysis and Data Science” by Dan Sullivan.
