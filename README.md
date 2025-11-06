@@ -5,7 +5,7 @@ Hi, I'm Nikita! I’m an Aspiring Data Analyst passionate about turning raw data
 I have a strong foundation in SQL, Python, Power BI, Tableau, and Excel, and I’m currently pursuing an MBA in Business Analytics, where I combine analytical thinking with strategic business understanding.
 
 My project experience spans sales, resource allocation, healthcare, and growth analytics, focusing on growth optimization, customer segmentation, and performance improvement.
-I bring 1 year of hands-on experience through two internships:
+I bring 0.8 year of hands-on experience through two internships:
 
 🧠 6-month Data Analytics Internship at Rubixe (AI Solutions Company)
 
