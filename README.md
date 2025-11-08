@@ -19,7 +19,7 @@ This repository showcases my projects, skills, and ongoing learning journey in d
 # Featured Projects
 These repositories include code, Power BI dashboards, and Jupyter notebooks I developed during my IABAC certification, internships, and self-learning journey.
 
-- [Customer Churn Analysis](https://github.com/Nikita-Ravindra-Albela/Churn-Analysis)
+- [Customer Churn Analysis] (https://github.com/Nikita-Ravindra-Albela/Churn-Analysis)
 - [SkillMinds-AI](https://example.com](https://github.com/Nikita-Ravindra-Albela/SkillMinds-AI)
 - [Twitter Sentiment](https://example.com](https://github.com/Nikita-Ravindra-Albela/Twitter-Sentiment-Analysis)
 - [Market Segmentation Analysis](https://example.co](https://github.com/Nikita-Ravindra-Albela/Study-of-U.S-Retail-Market)
