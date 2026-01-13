@@ -20,8 +20,8 @@ This repository showcases my projects, skills, and ongoing learning journey in d
 These repositories include code, Power BI dashboards, and Jupyter notebooks I developed during my IABAC certification, internships, and self-learning journey.
 
 - [AI Hallucination Risk Analysis] (https://github.com/Nikita-Ravindra-Albela/AI-Hallucination-Risk-Analysis)
-- [Customer Churn Analysis] (https://github.com/Nikita-Ravindra-Albela/Churn-Analysis)
 - [SkillMinds-AI](https://example.com](https://github.com/Nikita-Ravindra-Albela/SkillMinds-AI)
+- [Customer Churn Analysis] (https://github.com/Nikita-Ravindra-Albela/Churn-Analysis)
 - [Twitter Sentiment](https://example.com](https://github.com/Nikita-Ravindra-Albela/Twitter-Sentiment-Analysis)
 - [Market Segmentation Analysis](https://example.co](https://github.com/Nikita-Ravindra-Albela/Study-of-U.S-Retail-Market)
 - [Coffee Sales](https://example.com](https://github.com/Nikita-Ravindra-Albela/Coffee-Sales-Dashboard)
